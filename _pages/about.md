@@ -7,26 +7,48 @@ redirect_from:
   - /about.html
 ---
 
-I am on the market for full-time positions.
+**I am on the job market for full-time positions and open to opportunities in the industry.**
 
-I completed my PhD at the MIT-IBM Watson AI Lab where I worked with [Kenney Ng](https://research.ibm.com/people/kenney-ng), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/), [Roy Welsch](https://mitmgmtfaculty.mit.edu/rwelsch/), [Stan Finkelstein](https://hst.mit.edu/faculty-research/faculty/finkelstein-stan).
+I completed my PhD in Artificial intelligence at MIT where I worked with [Kenney Ng](https://research.ibm.com/people/kenney-ng) (IBM Research), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/) (CUNY), [Roy Welsch](https://mitmgmtfaculty.mit.edu/rwelsch/) (MIT Sloan), [Stan Finkelstein](https://hst.mit.edu/faculty-research/faculty/finkelstein-stan) (MIT and Harvard).
 
-My research focuses on: natural language processing, machine learning, stochastic process, and semiparametric theory.
+My research focuses on natural language processing, machine learning, stochastic process, and semiparametric theory.
 
 
 
-You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Machine Learning Research experience: I worked at [Scale AI, Inc](https://scale.com/) as a Generative AI Specialist and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) as a research assistant.
 
-A data-driven personal website
+Quantitative Research experience: I worked at [Point72 Asset Management](https://scale.com/) as a Quantitative Researcher and [Liberty Mutual Investments and the MIT Quest for Intelligence]([https://mitibmwatsonailab.mit.edu/](https://www.libertymutualgroup.com/about-lm/news/articles/liberty-mutual-insurance-establishes-artificial-intelligence-collaboration-mit)) as a research assistant.
+
+Selected Publications
+======
+- [Can metformin prevent cancer relative to sulfonylureas? A target trial emulation accounting for competing risks and poor overlap via double/debiased machine learning estimators](https://doi.org/10.1093/aje/kwae217)
+  by **S. Xu**, B. Zheng, B. Su, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn
+
+- [Estimating heterogeneous treatment effects on survival outcomes using counterfactual censoring unbiased transformations](http://arxiv.org/abs/2401.11263)
+  by **S. Xu**, R. Cobzaru, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn. Under revision at the Journal of the American Statistical Association (Theory and Methods)
+
+- [Estimating cumulative treatment effects on target population by double/debiased machine learning](https://arxiv.org/abs/2305.02373)
+  by **S. Xu**, S. Finkelstein, R. Welsch, K. Ng, I. Tzoulaki, and Z. Shahn. Submitted to the Journal of the Royal Statistical Society, Series B (Statistical Methodology)
+
+- [Foundational model-aided automated high-throughput drug screening using self-controlled cohort study](https://openreview.net/forum?id=30EakJqzF0)
+  by **S. Xu**, R. Cobzaru, S. Finkelstein, R. Welsch, and K. Ng. AI for New Drug Modalities (AIDrugX) at 38th NeurIPS, Vancouver, Canada, Dec 10-15, 2024
+
+- [Systematically exploring repurposing effects of anti-hypertensives](https://onlinelibrary.wiley.com/doi/10.1002/pds.5491)
+  by Z. Shahn, P. Spear, H. Lu, S. Jiang, S. Zhang, N. Deshmukh, **S. Xu**, K. Ng, R. Welsch, and S. Finkelstein. Pharmacoepidemiology and Drug Safety, 2022, 31(9), 944-952
+
+blah
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
+
+<!--
 - [MathJax](https://www.mathjax.org/) for mathematical equations
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting
+
 
 Getting started
 ======
@@ -60,3 +82,5 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->
