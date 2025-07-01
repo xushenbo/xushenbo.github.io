@@ -11,9 +11,12 @@ redirect_from:
 
 I completed my PhD in Artificial intelligence at MIT where I worked with [Kenney Ng](https://research.ibm.com/people/kenney-ng) (IBM Research), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/) (CUNY), [Roy Welsch](https://mitmgmtfaculty.mit.edu/rwelsch/) (MIT Sloan), [Stan Finkelstein](https://hst.mit.edu/faculty-research/faculty/finkelstein-stan) (MIT and Harvard).
 
-My research focuses on natural language processing, machine learning, stochastic process, and semiparametric theory.
+My research centers on the next generation of (generative) AI/ML for data-driven dynamic decision-making for real-world problems. Specifically, I focus on devising methods that explain the consequences of actions:
 
-
+- Causal inference on multivariate stochastic processes using machine learning
+- Foundation models/LLMs for causal inference
+- Reinforcement learning with uncertainty quantification (e.g., conformal prediction or Bayesian active learning)
+- Applications in finance, crypto, medicine, etc
 
 Machine Learning Research experience: I worked at [Scale AI, Inc](https://scale.com/) as a Generative AI Specialist and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) as a research assistant.
 
@@ -38,6 +41,8 @@ Selected Publications
 
 
 <!--
+My research focuses on natural language processing, stochastic process, and semiparametric theory.
+
 blah
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
