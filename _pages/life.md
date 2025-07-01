@@ -11,6 +11,7 @@ author_profile: true
 - cruise
 - rooftop
 - central Asia food
+- table tennis, rpb
 
 ## Travel
 - US, UK, Switzerland, Liechtenstein, France
