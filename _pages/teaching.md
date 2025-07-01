@@ -1,29 +1,19 @@
 ---
 layout: archive
-title: "Life"
-permalink: /life/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
-# My Life Outside Academia
+# Teaching
+- 15.S08 Applied Natural Language Processing, 2023 Fall
+- 15.450/15.457 Analytics of Finance/Advanced Analytics of Finance, 2024 Spring
+- 15.069 Applied Probability and Statistics, 2023 Fall
+- 15.034/15.0341, Econometrics for Managers, 2023 Spring
+- 15.087 Engineering Statistics and Data Science & 2018 Summer and, 2023 Summer
+- 15.086 Engineering Probability, 2023 Summer
+- 15.071/15.072 The Analytics Edge/The Advanced Analytics Edge, 2022 Fall
+- 15.077 Statistical Machine Learning and Data Science, 2022 Spring and 2021 Spring
+- 15.062/15.0621 Data Mining, 2018 Fall and 2019 Fall
+- 7.547/10.547/15.136/HST.920/IDS.620 Principles and Practice of Drug Development, 2018 Fall
 
-## Hobbies & Interests
-
-I enjoy various activities outside of research:
-- **Photography**: Capturing landscapes and street photography
-- **Hiking**: Exploring national parks and local trails  
-- **Cooking**: Experimenting with international cuisines
-- **Reading**: Fiction, biographies, and popular science books
-
-## Travel
-
-Some memorable places I've visited:
-- **Japan** (2023): Explored Tokyo, Kyoto, and Osaka
-- **Iceland** (2022): Road trip around the Ring Road
-- **Peru** (2021): Hiked the Inca Trail to Machu Picchu
-
-## Personal Projects
-
-- **Home Garden**: Growing vegetables and herbs
-- **Photography Blog**: Sharing travel and nature photos
-- **Volunteer Work**: Teaching coding to local high school students
