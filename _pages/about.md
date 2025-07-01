@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Idio" <!-- About me -->
+title: "Idio"
 author_profile: true
 redirect_from: 
   - /about/
