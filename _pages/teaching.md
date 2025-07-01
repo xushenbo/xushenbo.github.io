@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
 - 15.S08 Applied Natural Language Processing, 2023 Fall
 - 15.450/15.457 Analytics of Finance/Advanced Analytics of Finance, 2024 Spring
 - 15.069 Applied Probability and Statistics, 2023 Fall
