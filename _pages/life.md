@@ -10,6 +10,7 @@ author_profile: true
 - rooftop
 - central Asia food
 - table tennis, rpb
+- xdm, tsl, mēmē
 
 ## Travel
 - US, UK, Switzerland, Liechtenstein, France
