@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Idio"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -36,6 +36,8 @@ Selected Publications
 - [Systematically exploring repurposing effects of anti-hypertensives](https://onlinelibrary.wiley.com/doi/10.1002/pds.5491)
   by Z. Shahn, P. Spear, H. Lu, S. Jiang, S. Zhang, N. Deshmukh, **S. Xu**, K. Ng, R. Welsch, and S. Finkelstein. Pharmacoepidemiology and Drug Safety, 2022, 31(9), 944-952
 
+
+<!--
 blah
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -44,7 +46,6 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 
-<!--
 - [MathJax](https://www.mathjax.org/) for mathematical equations
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting
