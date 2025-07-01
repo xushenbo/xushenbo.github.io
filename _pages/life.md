@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Life"
+title: "Life outside work"
 permalink: /life/
 author_profile: true
 ---
-
-# Life outside work
 
 ## Enjoy
 - cruise
