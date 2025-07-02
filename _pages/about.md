@@ -9,7 +9,7 @@ redirect_from:
 
 **I am on the job market for full-time positions and open to opportunities in the industry.**
 
-I completed my PhD in Artificial intelligence at MIT where I worked with [Kenney Ng](https://research.ibm.com/people/kenney-ng) (IBM Research), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/) (CUNY), [Roy Welsch](https://mitmgmtfaculty.mit.edu/rwelsch/) (MIT Sloan), [Stan Finkelstein](https://hst.mit.edu/faculty-research/faculty/finkelstein-stan) (MIT and Harvard).
+I completed my PhD at MIT where I worked with [Roy Welsch](https://mitmgmtfaculty.mit.edu/rwelsch/) (MIT Sloan), [Stan Finkelstein](https://hst.mit.edu/faculty-research/faculty/finkelstein-stan) (MIT and Harvard), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/) (CUNY), [Kenney Ng](https://research.ibm.com/people/kenney-ng) (IBM Research).
 
 My research centers on the next generation of (generative) AI/ML for data-driven dynamic decision-making for real-world problems. Specifically, I focus on devising methods that explain the consequences of actions:
 
@@ -18,14 +18,16 @@ My research centers on the next generation of (generative) AI/ML for data-driven
 - Reinforcement learning with uncertainty quantification (e.g., conformal prediction or Bayesian active learning)
 - Applications in finance, crypto, medicine, etc
 
-Machine Learning Research experience: I worked at [Scale AI, Inc](https://scale.com/) as a Generative AI Specialist and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) as a research assistant.
+**Machine Learning Research** experience:
+I worked at [Scale AI, Inc](https://scale.com/) as a Generative AI Specialist and at [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) as a research assistant.
 
-Quantitative Research experience: I worked at [Point72 Asset Management](https://scale.com/) as a Quantitative Researcher and [Liberty Mutual Investments and the MIT Quest for Intelligence]([https://mitibmwatsonailab.mit.edu/](https://www.libertymutualgroup.com/about-lm/news/articles/liberty-mutual-insurance-establishes-artificial-intelligence-collaboration-mit)) as a research assistant.
+**Quantitative Research** experience:
+I worked at [Point72 Asset Management](https://scale.com/) as a Quantitative Researcher and [Liberty Mutual Investments and the MIT Quest for Intelligence]([https://mitibmwatsonailab.mit.edu/](https://www.libertymutualgroup.com/about-lm/news/articles/liberty-mutual-insurance-establishes-artificial-intelligence-collaboration-mit)) as a research assistant.
 
 Selected Publications
 ======
 - [Can metformin prevent cancer relative to sulfonylureas? A target trial emulation accounting for competing risks and poor overlap via double/debiased machine learning estimators](https://doi.org/10.1093/aje/kwae217)
-  by **S. Xu**, B. Zheng, B. Su, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn
+  by **S. Xu**, B. Zheng, B. Su, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn. American Journal of Epidemiology, 2025, 194(2), 512-523
 
 - [Estimating heterogeneous treatment effects on survival outcomes using counterfactual censoring unbiased transformations](http://arxiv.org/abs/2401.11263)
   by **S. Xu**, R. Cobzaru, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn. Under revision at the Journal of the American Statistical Association (Theory and Methods)
