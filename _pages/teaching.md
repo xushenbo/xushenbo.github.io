@@ -5,7 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-- 15.S08 Applied Natural Language Processing, 2023 Fall
+All at MIT.
+
+- 15.S08 <span style="color: olive;">Applied Natural Language Processing</span>, 2023 Fall
 - 15.450/15.457 Analytics of Finance/Advanced Analytics of Finance, 2024 Spring
 - 15.069 Applied Probability and Statistics, 2023 Fall
 - 15.034/15.0341, Econometrics for Managers, 2023 Spring
