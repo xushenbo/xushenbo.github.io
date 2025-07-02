@@ -22,7 +22,7 @@ My research centers on the next generation of (generative) AI/ML for data-driven
 I worked at [Scale AI, Inc](https://scale.com/) as a Generative AI Specialist and at [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) as a Research Assistant.
 
 **Quantitative Research experience**:  
-I worked at [Point72 Asset Management](https://scale.com/) as a Quantitative Researcher and [Liberty Mutual Investments and the MIT Quest for Intelligence]([https://mitibmwatsonailab.mit.edu/](https://www.libertymutualgroup.com/about-lm/news/articles/liberty-mutual-insurance-establishes-artificial-intelligence-collaboration-mit)) as a Research Assistant.
+I worked at [Point72 Asset Management](https://point72.com/) as a Quantitative Researcher and [Liberty Mutual Investments and the MIT Quest for Intelligence](https://www.libertymutualgroup.com/about-lm/news/articles/liberty-mutual-insurance-establishes-artificial-intelligence-collaboration-mit)) as a Research Assistant.
 
 Selected Publications
 ======
