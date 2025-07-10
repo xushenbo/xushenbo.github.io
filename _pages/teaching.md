@@ -10,8 +10,8 @@ All at MIT.
 - 15.S08 <span style="color: #0066cc;">Applied Natural Language Processing</span>, 2023 Fall
 - 15.450/15.457 <span style="color: #337ab7;">Analytics of Finance/Advanced Analytics of Finance</span>, 2024 Spring
 - 15.069 <span style="color: #0073e6;">Applied Probability and Statistics</span>, 2023 Fall
-- 15.034/15.0341, <span style="color: var(--link-color);">Econometrics for Managers</span>, 2023 Spring
-- 15.087 <span style="color: var(--link-color);">Engineering Statistics and Data Science</span>, 2018 Summer and 2023 Summer
+- 15.034/15.0341, <span style="color: #004499;">Econometrics for Managers</span>, 2023 Spring
+- 15.087 <span style="color: #800080;">Engineering Statistics and Data Science</span>, 2018 Summer and 2023 Summer
 - 15.086 <span style="color: var(--link-color);">Engineering Probability</span>, 2023 Summer
 - 15.071/15.072 <span style="color: var(--link-color);">The Analytics Edge/The Advanced Analytics Edge</span>, 2022 Fall
 - 15.077 <span style="color: var(--link-color);">Statistical Machine Learning and Data Science</span>, 2022 Spring and 2021 Spring
