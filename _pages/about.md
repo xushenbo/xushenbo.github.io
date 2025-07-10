@@ -18,6 +18,8 @@ My research centers on the next generation of (generative) AI/ML for data-driven
 - Reinforcement learning with uncertainty quantification (e.g., conformal prediction or Bayesian active learning)
 - Applications in finance, crypto, medicine, etc
 
+Below is my industry experience
+
 **Machine Learning Research experience**:  
 I worked at [Scale AI, Inc](https://scale.com/) as a Generative AI Specialist and at [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) as a Research Assistant.
 
