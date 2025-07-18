@@ -32,10 +32,10 @@ Selected Publications
   by **S. Xu**, B. Zheng, B. Su, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn. American Journal of Epidemiology, 2025, 194(2), 512-523
 
 - [Estimating heterogeneous treatment effects on survival outcomes using counterfactual censoring unbiased transformations](http://arxiv.org/abs/2401.11263)
-  by **S. Xu**, R. Cobzaru, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn. Under revision at the Journal of the American Statistical Association (Theory and Methods)
+  by **S. Xu**, R. Cobzaru, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn. Under revision at the Journal of the American Statistical Association. arXiv preprint arXiv:2401.11263.
 
 - [Estimating cumulative treatment effects on target population by double/debiased machine learning](https://arxiv.org/abs/2305.02373)
-  by **S. Xu**, S. Finkelstein, R. Welsch, K. Ng, I. Tzoulaki, and Z. Shahn. Submitted to the Journal of the Royal Statistical Society, Series B (Statistical Methodology)
+  by **S. Xu**, S. Finkelstein, R. Welsch, K. Ng, I. Tzoulaki, and Z. Shahn. Submitted to the Journal of the Royal Statistical Society, Series B. arXiv preprint arXiv:2305.02373.
 
 - [Foundational model-aided automated high-throughput drug screening using self-controlled cohort study](https://openreview.net/forum?id=30EakJqzF0)
   by **S. Xu**, R. Cobzaru, S. Finkelstein, R. Welsch, and K. Ng. AI for New Drug Modalities (AIDrugX) at 38th NeurIPS, Vancouver, Canada, Dec 10-15, 2024
