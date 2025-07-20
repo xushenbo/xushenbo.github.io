@@ -28,17 +28,17 @@ I worked at [Point72 Asset Management](https://point72.com/) as a Quantitative R
 
 Selected Publications
 ======
-- [Can metformin prevent cancer relative to sulfonylureas? A target trial emulation accounting for competing risks and poor overlap via double/debiased machine learning estimators](https://doi.org/10.1093/aje/kwae217)
-  by **S. Xu**, B. Zheng, B. Su, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn. American Journal of Epidemiology, 2025, 194(2), 512-523
+- [Foundational model-aided automated high-throughput drug screening using self-controlled cohort study](https://openreview.net/forum?id=30EakJqzF0)
+  by **S. Xu**, R. Cobzaru, S. Finkelstein, R. Welsch, and K. Ng. AI for New Drug Modalities (AIDrugX) at 38th NeurIPS, Vancouver, Canada, Dec 10-15, 2024
 
 - [Estimating heterogeneous treatment effects on survival outcomes using counterfactual censoring unbiased transformations](http://arxiv.org/abs/2401.11263)
   by **S. Xu**, R. Cobzaru, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn. Under revision at the Journal of the American Statistical Association. (Theory and Methods) arXiv preprint arXiv:2401.11263.
 
 - [Estimating cumulative treatment effects on target population by double/debiased machine learning](https://arxiv.org/abs/2305.02373)
-  by **S. Xu**, S. Finkelstein, R. Welsch, K. Ng, I. Tzoulaki, and Z. Shahn. Submitted to the Journal of the Royal Statistical Society, Series B. (Statistical Methodology) arXiv preprint arXiv:2305.02373.
+  by **S. Xu**, S. Finkelstein, R. Welsch, K. Ng, I. Tzoulaki, and Z. Shahn. Under review at the International Conference on Learning Representations. arXiv preprint arXiv:2305.02373.
 
-- [Foundational model-aided automated high-throughput drug screening using self-controlled cohort study](https://openreview.net/forum?id=30EakJqzF0)
-  by **S. Xu**, R. Cobzaru, S. Finkelstein, R. Welsch, and K. Ng. AI for New Drug Modalities (AIDrugX) at 38th NeurIPS, Vancouver, Canada, Dec 10-15, 2024
+- [Can metformin prevent cancer relative to sulfonylureas? A target trial emulation accounting for competing risks and poor overlap via double/debiased machine learning estimators](https://doi.org/10.1093/aje/kwae217)
+  by **S. Xu**, B. Zheng, B. Su, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn. American Journal of Epidemiology, 2025, 194(2), 512-523
 
 - [Systematically exploring repurposing effects of anti-hypertensives](https://onlinelibrary.wiley.com/doi/10.1002/pds.5491)
   by Z. Shahn, P. Spear, H. Lu, S. Jiang, S. Zhang, N. Deshmukh, **S. Xu**, K. Ng, R. Welsch, and S. Finkelstein. Pharmacoepidemiology and Drug Safety, 2022, 31(9), 944-952
