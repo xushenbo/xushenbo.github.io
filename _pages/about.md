@@ -11,12 +11,12 @@ redirect_from:
 
 I completed my PhD at MIT where I worked with [Roy Welsch](https://mitmgmtfaculty.mit.edu/rwelsch/) (MIT Sloan), [Stan Finkelstein](https://hst.mit.edu/faculty-research/faculty/finkelstein-stan) (MIT and Harvard), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/) (CUNY), [Kenney Ng](https://research.ibm.com/people/kenney-ng) (IBM Research).
 
-My research centers on the next generation of (generative) AI/ML for data-driven dynamic decision-making for real-world problems. Specifically, I focus on devising methods that explain the consequences of actions:
+My research centers on the next generation of foundational models for data-driven dynamic decision-making for real-world problems. Specifically, I focus on devising methods that explain the consequences of actions:
 
-- Causal inference on multivariate stochastic processes using machine learning
-- Foundation models/LLMs for causal inference
+- Reasoning with knowledge graphs
+- Causal inference on multivariate stochastic processes
 - Reinforcement learning with uncertainty quantification (e.g., conformal prediction or Bayesian active learning)
-- Applications in finance, crypto, medicine, etc
+- Applications in finance, crypto, medicine, manufacturing, etc
 
 Below is my industry experience
 
@@ -28,14 +28,17 @@ I worked at [Point72 Asset Management](https://point72.com/) as a Quantitative R
 
 Selected Publications
 ======
+- [Do Larger Language Models Generalize Better? A Scaling Law for Implicit Reasoning at Pretraining Time](https://openreview.net/forum?id=v3mJ4f4Mnc&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))
+  by X. Wang, S. Tan, **S. Xu**, M. Jin, W. Wang, R. Panda, Y. Shen. Under review at the International Conference on Learning Representations 2026. arXiv preprint arXiv:2305.02373.
+
+- [Double/Debiased Machine Learning for Time-to-Event Outcomes Under Poor Overlap](https://openreview.net/forum?id=mhJ9jO7ue8&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))
+  by **S. Xu**, S. Finkelstein, R. Welsch, K. Ng, I. Tzoulaki, and Z. Shahn. Under review at the International Conference on Learning Representations 2026. arXiv preprint arXiv:2305.02373.
+
 - [Foundational model-aided automated high-throughput drug screening using self-controlled cohort study](https://openreview.net/forum?id=30EakJqzF0)
   by **S. Xu**, R. Cobzaru, S. Finkelstein, R. Welsch, and K. Ng. AI for New Drug Modalities (AIDrugX) at 38th NeurIPS, Vancouver, Canada, Dec 10-15, 2024
 
 - [Estimating heterogeneous treatment effects on survival outcomes using counterfactual censoring unbiased transformations](http://arxiv.org/abs/2401.11263)
   by **S. Xu**, R. Cobzaru, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn. Under revision at the Journal of the American Statistical Association. (Theory and Methods) arXiv preprint arXiv:2401.11263.
-
-- [Estimating cumulative treatment effects on target population by double/debiased machine learning](https://arxiv.org/abs/2305.02373)
-  by **S. Xu**, S. Finkelstein, R. Welsch, K. Ng, I. Tzoulaki, and Z. Shahn. Under review at the International Conference on Learning Representations. arXiv preprint arXiv:2305.02373.
 
 - [Can metformin prevent cancer relative to sulfonylureas? A target trial emulation accounting for competing risks and poor overlap via double/debiased machine learning estimators](https://doi.org/10.1093/aje/kwae217)
   by **S. Xu**, B. Zheng, B. Su, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn. American Journal of Epidemiology, 2025, 194(2), 512-523
