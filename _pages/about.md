@@ -38,7 +38,7 @@ Selected Publications
   by **S. Xu**, R. Cobzaru, S. Finkelstein, R. Welsch, and K. Ng. AI for New Drug Modalities (AIDrugX) at 38th NeurIPS, Vancouver, Canada, Dec 10-15, 2024
 
 - [Estimating heterogeneous treatment effects on survival outcomes using counterfactual censoring unbiased transformations](http://arxiv.org/abs/2401.11263)
-  by **S. Xu**, R. Cobzaru, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn. Under revision at the Journal of the American Statistical Association. (Theory and Methods) arXiv preprint arXiv:2401.11263.
+  by **S. Xu**, R. Cobzaru, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn. Under revision at the Journal of Machine Learning Research. arXiv preprint arXiv:2401.11263.
 
 - [Can metformin prevent cancer relative to sulfonylureas? A target trial emulation accounting for competing risks and poor overlap via double/debiased machine learning estimators](https://doi.org/10.1093/aje/kwae217)
   by **S. Xu**, B. Zheng, B. Su, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn. American Journal of Epidemiology, 2025, 194(2), 512-523
