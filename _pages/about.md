@@ -9,9 +9,9 @@ redirect_from:
 
 **I am on the job market for full-time positions and open to opportunities in the industry. I would be grateful for any opportunities you might consider sharing via [email](mailto:xushenbo857@gmail.com) (`xushenbo857 {@ | at} gmail.com`).**
 
-I completed my PhD at MIT where I worked with [Roy Welsch](https://mitmgmtfaculty.mit.edu/rwelsch/) (MIT Sloan), [Stan Finkelstein](https://hst.mit.edu/faculty-research/faculty/finkelstein-stan) (MIT and Harvard), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/) (CUNY), [Kenney Ng](https://research.ibm.com/people/kenney-ng) (IBM Research).
+<!-- where I worked with [Roy Welsch](https://mitmgmtfaculty.mit.edu/rwelsch/) (MIT Sloan), [Stan Finkelstein](https://hst.mit.edu/faculty-research/faculty/finkelstein-stan) (MIT and Harvard), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/) (CUNY), [Kenney Ng](https://research.ibm.com/people/kenney-ng) (IBM Research). !-->
 
-My research centers on the next generation of foundational models for data-driven dynamic decision-making for real-world problems. Specifically, I focus on devising methods that explain the consequences of actions:
+I completed my PhD at MIT. My research centers on the next generation of foundational models for data-driven dynamic decision-making for real-world problems. Specifically, I focus on devising methods that explain the consequences of actions:
 
 - Reasoning with knowledge graphs
 - Causal inference on multivariate stochastic processes
