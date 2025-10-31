@@ -13,7 +13,7 @@ redirect_from:
 
 I completed my PhD at MIT. My research centers on the next generation of foundational models for data-driven dynamic decision-making for real-world problems. Specifically, I focus on devising methods that explain the consequences of actions:
 
-- Reasoning with knowledge graphs
+- Reasoning on knowledge graphs, involving pre-training, fine-tuning, reinforcement learning, and evaluation
 - Causal inference on multivariate stochastic processes
 - Reinforcement learning with uncertainty quantification (e.g., conformal prediction or Bayesian active learning)
 - Applications in finance, crypto, medicine, manufacturing, etc
