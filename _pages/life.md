@@ -16,7 +16,7 @@ author_profile: true
 - US, UK, Switzerland, Liechtenstein, France
 
 ## Fun Facts
-- I was trained as an artist.
+- I was pre-trained as an artist, mid-trained as a mechanical engineer, and post-trained as a machine learning scientist.
 
 
 <!--
