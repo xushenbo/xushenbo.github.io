@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- where I worked with [Roy Welsch](https://mitmgmtfaculty.mit.edu/rwelsch/) (MIT Sloan), [Stan Finkelstein](https://hst.mit.edu/faculty-research/faculty/finkelstein-stan) (MIT and Harvard), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/) (CUNY), [Kenney Ng](https://research.ibm.com/people/kenney-ng) (IBM Research). !-->
 
-I completed my PhD at MIT. My research centers on the next generation of foundational models for data-driven dynamic decision-making for real-world problems. Specifically, I focus on devising methods that explain the consequences of actions:
+I completed my PhD in AI at MIT. My research centers on the next generation of foundational models for data-driven dynamic decision-making for real-world problems. Specifically, I focus on devising methods that explain the consequences of actions:
 
 - Reasoning on knowledge graphs, involving pre-training, reinforcement learning, agentic systems, and evaluation
 - Causal inference, multivariate stochastic processes, uncertainty quantification, conformal inference, Bayesian active learning
