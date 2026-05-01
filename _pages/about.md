@@ -27,8 +27,8 @@ I worked at [Point72 Asset Management](https://point72.com/) as a Quantitative R
 
 Selected Publications
 ======
-- [Do Larger Language Models Generalize Better? A Scaling Law for Implicit Reasoning at Pretraining Time](https://openreview.net/forum?id=v3mJ4f4Mnc&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))
-  by X. Wang, S. Tan, **S. Xu**, M. Jin, W. Wang, R. Panda, Y. Shen. Under review at the International Conference on Learning Representations 2026. arXiv preprint arXiv:2305.02373.
+- [Finding the Minimal Parameter Budget for Implicit Reasoning: A Data Complexity Driven Scaling Law for Language Models](https://openreview.net/forum?id=iuIPAhZpxz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions))
+  by X. Wang, S. Tan, **S. Xu**, M. Jin, W. Wang, R. Panda, Y. Shen. International Conference on Machine Learning 2026.
 
 - [Estimating heterogeneous treatment effects on survival outcomes using counterfactual censoring unbiased transformations](http://arxiv.org/abs/2401.11263)
   by **S. Xu**, R. Cobzaru, S. Finkelstein, R. Welsch, K. Ng, and Z. Shahn. Revision under review at the Journal of Machine Learning Research. arXiv preprint arXiv:2401.11263. PR under review at [EconML](https://www.pywhy.org/EconML/) (part of [PyWhy](https://www.pywhy.org/EconML/)).
