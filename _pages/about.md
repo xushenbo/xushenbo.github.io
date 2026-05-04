@@ -45,7 +45,7 @@ Selected Publications
 - [Systematically exploring repurposing effects of anti-hypertensives](https://onlinelibrary.wiley.com/doi/10.1002/pds.5491)
   by Z. Shahn, P. Spear, H. Lu, S. Jiang, S. Zhang, N. Deshmukh, **S. Xu**, K. Ng, R. Welsch, and S. Finkelstein. Pharmacoepidemiology and Drug Safety, 2022, 31(9), 944-952
 
-- Contributor to [QuantitativeFinance-Bench: A State-Aware Interactive Benchmark for Financial Agent Tasks](https://github.com/QF-Bench/QuantitativeFinance-Bench), 2026.
+- [QuantitativeFinance-Bench: A State-Aware Interactive Benchmark for Financial Agent Tasks](https://github.com/QF-Bench/QuantitativeFinance-Bench), NeurIPS 2026 Evaluations and Datasets Track.
 
 <!--
 My research focuses on foundational models, stochastic process, and semiparametric theory.
